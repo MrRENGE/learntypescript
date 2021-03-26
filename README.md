@@ -1,0 +1,2 @@
+# learntypescript
+about TypeScript code!
